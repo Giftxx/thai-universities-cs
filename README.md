@@ -20,6 +20,8 @@
 pip install -r requirements.txt
 
 ภาพตัวอย่าง Dashboard:
-![Dashboard Preview](T_BOTH/img/pp1.png)
-![Dashboard Preview](T_BOTH/img/pp2.png)
+![Dashboard Preview](img/pp1.png)
+![Dashboard Preview](img/pp2.png)
+
+
 

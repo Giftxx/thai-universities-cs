@@ -19,11 +19,8 @@
 ![Dashboard Preview](img/pp1.png)
 ![Dashboard Preview](img/pp2.png)
 
-1. ติดตั้งไลบรารีที่จำเป็น:
+1. ติดตั้งไลบรารีที่จำเป็นและการ run file `app3.py`:
 ```bash
 pip install -r requirements.txt
-
-
-
-
-
+python app3.py
+```

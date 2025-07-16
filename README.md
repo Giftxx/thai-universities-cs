@@ -14,15 +14,16 @@
 - `app3.py` – สคริปต์รัน dashboard เพื่อแสดงข้อมูลแบบ interactive
 
 ## 🚀 วิธีใช้งาน
+ภาพตัวอย่าง Dashboard:
+
+![Dashboard Preview](img/pp1.png)
+![Dashboard Preview](img/pp2.png)
 
 1. ติดตั้งไลบรารีที่จำเป็น:
 ```bash
 pip install -r requirements.txt
 
-ภาพตัวอย่าง Dashboard:
 
-![Dashboard Preview](img/pp1.png)
-![Dashboard Preview](img/pp2.png)
 
 
 

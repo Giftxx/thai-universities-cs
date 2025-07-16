@@ -18,3 +18,8 @@
 1. ติดตั้งไลบรารีที่จำเป็น:
 ```bash
 pip install -r requirements.txt
+
+ภาพตัวอย่าง Dashboard:
+![Dashboard Preview](T_BOTH/img/pp1.png)
+![Dashboard Preview](T_BOTH/img/pp2.png)
+

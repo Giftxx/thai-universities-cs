@@ -16,8 +16,14 @@
 ## 🚀 วิธีใช้งาน
 ภาพตัวอย่าง Dashboard:
 
-![Dashboard Preview](img/pp1.png)
-![Dashboard Preview](img/pp2.png)
+<!-- ![Dashboard Preview](img/image1.png)
+![Dashboard Preview](img/image2.png)
+![Dashboard Preview](img/image3.png) -->
+<p align="center">
+  <img src="img/image1.png" width="800"/>
+  <img src="img/image2.png" width="800"/>
+  <img src="img/image3.png" width="800"/>
+</p>
 
 1. ติดตั้งไลบรารีที่จำเป็นและการ run file `app3.py`:
 ```bash
